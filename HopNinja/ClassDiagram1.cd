@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WaypointAssignment">
+    <Position X="10.75" Y="7.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAIAAAEAAAIAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Traps\WaypointAsignment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SlimeGenerator">
+    <Position X="9" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAABBAAAAiAAAAAABAAAAAAAAEAAAAAAAAACAiAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Traps\SlimeGenerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlantEnemy">
+    <Position X="12.75" Y="5.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>BAQAAAAAACAAAAAAEBAAAAAAAIAAAQAAEAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Traps\PlantEnemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemySpike">
+    <Position X="10.75" Y="5.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Traps\EnemySpike.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DamageObject">
+    <Position X="12.75" Y="4.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Traps\DamageObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BulletPlant">
+    <Position X="9" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAQAAAAAAAAAAAAAAIAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Traps\BulletPlant.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ActivateRockHead">
+    <Position X="11" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AEABAAAAAiAAAAAAAAAAAAAAAEAAAEABAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Traps\ActivateRockHead.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AIBasic">
+    <Position X="9" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAiAAAAAQAAAgAAQAAQAgIAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Traps\AIBasic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Slime">
+    <Position X="13" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAACAAAAAAAAAAAAQAAQAAQEJAAgEAAAA=</HashCode>
+      <FileName>Assets\Scripts\Traps\Boss.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BreakSpikes">
+    <Position X="10.75" Y="3.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Traps\BreakSpikes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ability">
+    <Position X="0.5" Y="2.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>BAIBAAAAAiAACCAAAABQAAAAAEAAgAANAQAAAgAAgAA=</HashCode>
+      <FileName>Assets\Scripts\Player\Ability.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CheckGround">
+    <Position X="2.5" Y="2.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAAAAEAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Player\CheckGround.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Helps">
+    <Position X="4.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQQEAAAACAAAAAAAAAAAAAAAAAAAAgAAQAAAQAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Player\Helps.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerMove">
+    <Position X="2.5" Y="4.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>BAACAIAAAiAkASAAAABAAAABAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Player\PlayerMove.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerRespawn">
+    <Position X="4.5" Y="5.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>BAQAANAACCAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAQAA=</HashCode>
+      <FileName>Assets\Scripts\Player\PlayerRespawn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TrampolinMovement">
+    <Position X="18" Y="1.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>BAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Objects\TrampolinMovement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BreakMap">
+    <Position X="18" Y="3.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAEAAAEAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Objects\BreakMap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CheckPoint">
+    <Position X="20" Y="4.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAECAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Objects\CheckPoint.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemiesDamages">
+    <Position X="20" Y="1.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAACAAAAAAAAAAAFAAAEAAAAQAAAAAAAEAAAA=</HashCode>
+      <FileName>Assets\Scripts\Objects\EnemiesDamaged.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FruitCollected">
+    <Position X="21.5" Y="7.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Objects\FruitCollected.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FruitManager">
+    <Position X="18" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAQAABAAAAAAAAAAAAQEAAAAAAAgA=</HashCode>
+      <FileName>Assets\Scripts\Objects\FruitManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenDoor">
+    <Position X="22" Y="4" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAYAAACAACAAIAAAAAAAAAAAAEAAAAAIAAAAgABAAAA=</HashCode>
+      <FileName>Assets\Scripts\Objects\OpenDoor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Timer">
+    <Position X="19.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBAAACAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Objects\Timer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CopyOfEnemiesDamages">
+    <Position X="22" Y="1.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAACAAAAAAAAAAAFAAAEAAAAQAAAAAAAEAAAA=</HashCode>
+      <FileName>Assets\Scripts\Objects\EnemiesDamaged.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
