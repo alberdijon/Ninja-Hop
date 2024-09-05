@@ -40,15 +40,6 @@ Supera cada nivel recogiendo todas las frutas en el mapa. El jefe final se derro
 
 Este es un juego simple que debería funcionar sin problemas en la mayoría de los ordenadores. No hay requisitos mínimos formales.
 
-### Imágenes
-
-_Aquí se pueden añadir capturas de pantalla del juego mostrando:_
-
-1. Pantalla de inicio del juego.
-2. Selección de niveles por dificultad.
-3. Un nivel en curso con el personaje saltando o recogiendo frutas.
-4. La pelea contra el jefe final.
-
 ### Estado del Proyecto
 
 El proyecto es jugable, pero sigue en desarrollo activo. Aunque fue originalmente un proyecto para una clase, continuaré trabajando en él a medida que tenga tiempo.
